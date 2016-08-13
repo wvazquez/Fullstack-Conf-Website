@@ -1,0 +1,22 @@
+
+.navbar .navbar-brand{
+  color: rgba(255,255,255,0.85);
+  font-size: 1rem;
+  padding-top: .45rem;
+}
+
+.jumbotron{
+  background: url('../images/jumbo-bg.jpg');
+  background-size: cover;
+}
+
+.btn, .active{
+  transition: 0.4s;
+}
+
+.media-body .new-text{
+  color: black;
+}
+.media-body .new-text:hover{
+  text-decoration: none;
+}
